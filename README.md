@@ -1,7 +1,10 @@
 # caj2pdf-actions
 #### 无需配置环境，使用Github Actions一键转换！  
+#### 搭配[ActionArtifacts.Workers](https://github.com/qinlili23333/ActionArtifacts.Workers)项目可以更方便的下载成品！  
+#### 这里有一个转换完成的[演示文件](https://ow365.cn/?i=28657&ssl=1&furl=https://artifacts.qinlili.bid/proxylink?owner=qinlili23333&repo=caj2pdf-actions)，使用OfficeWeb365在线预览
 
 ## 使用方法
+#### [查看有图片的手把手教学](https://a.scene.meih5.net/s/PLOnv7sd)
 1. 下载caj文件到本地，改名为file.caj
 2. fork本项目
 3. 直接上传file.caj到你clone的仓库的根目录内
